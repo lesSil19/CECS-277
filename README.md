@@ -1,2 +1,2 @@
 # CECS-277
- java
+ Phuong Nguyen CECS 277 class, most labs that were assigned.
